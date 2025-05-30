@@ -12,7 +12,7 @@ public class Main {
 
         System.out.println(salary);
 
-        String name = "이하영";
+        String name = "LHY";
 
         System.out.println(name);
     }
